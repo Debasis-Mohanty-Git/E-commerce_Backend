@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.781540c6.css",
+    "main.js": "/static/js/main.d71cb23e.js",
+    "static/js/453.661466bf.chunk.js": "/static/js/453.661466bf.chunk.js",
+    "static/media/clickCartLogo.png": "/static/media/clickCartLogo.48c24259d3b6d4a44699.png",
+    "index.html": "/index.html",
+    "main.781540c6.css.map": "/static/css/main.781540c6.css.map",
+    "main.d71cb23e.js.map": "/static/js/main.d71cb23e.js.map",
+    "453.661466bf.chunk.js.map": "/static/js/453.661466bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.781540c6.css",
+    "static/js/main.d71cb23e.js"
+  ]
+}
